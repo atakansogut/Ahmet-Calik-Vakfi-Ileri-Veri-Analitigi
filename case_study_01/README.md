@@ -1,5 +1,6 @@
 
 📊 Satış Performans ve Veri Analizi Dashboard Projesi
+
 Bu proje, ham satış verilerini kullanarak işletme kararlarına temel oluşturacak dinamik bir Excel Dashboard raporu oluşturma sürecini kapsamaktadır. Verilerin temizlenmesinden, ileri düzey görselleştirme tekniklerine ve makro otomasyonuna kadar uçtan uca bir analiz sürecini içerir.
 
 🚀 Proje Kapsamında Yapılanlar
